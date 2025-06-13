@@ -1,4 +1,6 @@
-<h2 align="center">I am a 3rd-year student majoring in CSE from DIU\n</h2>
+<h2 align="center">I am a 3rd-year student majoring in CSE from DIU
+  
+</h2>
 
 ###
 
