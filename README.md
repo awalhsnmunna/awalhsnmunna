@@ -55,6 +55,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awalhsnmunna&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ###
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=awalhsnmunna&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=awalhsnmunna&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=awalhsnmunna&icon=5&color=1)](https://visitcount.itsvg.in)
