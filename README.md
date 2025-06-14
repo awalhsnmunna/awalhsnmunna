@@ -50,9 +50,10 @@
 </div>
 
 # 
-![](https://github-readme-stats.vercel.app/api?username=awalhsnmunna&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=awalhsnmunna&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=awalhsnmunna&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=awalhsnmunna&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=awalhsnmunna&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=awalhsnmunna&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=awalhsnmunna&theme=dark&no-frame=false&no-bg=false&margin-w=4)
