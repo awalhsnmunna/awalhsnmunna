@@ -1,9 +1,9 @@
 <h2 align="center">I am a 3rd-year student majoring in CSE from DIU
-  <br>
+
 </h2>
 
 ###
-
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
   <img width="12" />
