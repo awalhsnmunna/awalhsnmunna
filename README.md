@@ -1,5 +1,4 @@
 <h2 align="center">
-  <br>
   I am a 3rd-year student majoring in CSE from DIU
 
 </h2>
@@ -7,8 +6,6 @@
 ###
 
 <div align="center">
-  <br>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
