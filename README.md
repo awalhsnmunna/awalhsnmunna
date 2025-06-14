@@ -1,5 +1,7 @@
 <h2 align="center">
   I am a 3rd-year student majoring in CSE from DIU
+  <br>
+  <br>
 
 </h2>
 
