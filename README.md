@@ -10,7 +10,7 @@
 <div align="center">
   
   <h2 align="left">🛠 Language and tools</h2>
-  <br>
+  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
